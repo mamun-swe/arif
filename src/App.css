@@ -1,0 +1,89 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.css-uhb5lp {
+  background-color: #080C13 !important;
+  color: white !important;
+}
+
+.css-74waha .MuiDialogContent-root {
+  border-top: 1px solid white !important;
+}
+.add-fork{
+  display: block !important;
+}
+
+.css-1lwbda4-MuiStack-root,
+.css-1u3bzj6-MuiFormControl-root-MuiTextField-root,
+.css-o9k5xi-MuiInputBase-root-MuiOutlinedInput-root, .css-ovnx7g, .css-i44wyl {
+    height: 40px !important;
+    color: black !important;
+    
+}
+
+
+.css-o9k5xi-MuiInputBase-root-MuiOutlinedInput-root, .css-1bn53lx{
+    background-color: white !important;
+    height: 40px !important;
+}
+.css-1yq5fb3-MuiButtonBase-root-MuiIconButton-root{
+    color: black !important;
+}
+.css-1sumxir-MuiFormLabel-root-MuiInputLabel-root, .css-u9osun{
+    top: -10px !important;
+    color: white !important;
+}
+
+@media screen and (max-width: 575px) {
+  .add-fork {
+    margin-left: auto;
+  }
+}
+
+body {
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.awssld__box,
+.awssld--active {
+  z-index: 0 !important;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}
+

@@ -1,0 +1,18 @@
+.ads-banner {
+    background: white !important;
+    height: 100vh;
+}
+.header-selected-images{
+    width: 100px;
+    /* height: 100px; */
+    object-fit: cover;
+    /* margin: 16px; */
+    background-color: antiquewhite;
+}
+.close-icon-header{
+    position: absolute;
+    right: 20px;
+    cursor: pointer;
+    top: 8px;
+}
+

@@ -1,0 +1,323 @@
+@media screen and (max-width: 575px) {
+    .whitelist-table-row {
+        width: 100%;
+    }
+
+    .site-main {
+        display: block;
+    }
+
+    .whiteico {
+        max-width: 400px;
+        width: 100%;
+    }
+
+    .whiteico {
+        text-align: left;
+        max-width: 400px;
+        width: 100%;
+    }
+
+    .whitelist_date {
+        width: auto;
+        line-height: 1.43;
+        opacity: .6;
+        font-family: Roboto;
+        font-size: 14px;
+        position: absolute;
+        right: 0;
+        bottom: 10px;
+    }
+
+    .whiteico {
+        padding: 15px 0;
+        box-shadow: 0 1px 0 0 rgb(56 56 56 / 10%);
+        min-height: 135px;
+        position: relative;
+        font: inherit;
+        vertical-align: baseline;
+        border: 0;
+    }
+
+    #whitelist_ico {
+        border: none;
+        padding: 0;
+        font: inherit;
+        vertical-align: baseline;
+    }
+
+    .whtico-row>div {
+        display: inline-block;
+        vertical-align: top;
+    }
+
+    .white_ico-icon {
+        max-width: 24px;
+        margin: 0;
+        padding: 0;
+        font: inherit;
+        border: 0;
+    }
+
+    .whiteico a:link {
+        color: navajowhite;
+    }
+
+    a:link,
+    a:visited,
+    a:active,
+    a:hover {
+        text-decoration: none;
+    }
+
+    .attachment-thumbnail {
+        width: 20px;
+        height: 20px;
+        border-radius: 20px;
+        margin-right: 4px;
+    }
+
+
+    .white_info h3 {
+        width: auto;
+        display: block;
+        font-size: 1.4rem !important;
+        /* font-weight: 700; */
+    }
+
+    .white_info .white-ico-category-name {
+        font-family: Roboto;
+        font-size: 14px;
+        line-height: 2;
+        width: auto;
+        text-align: left;
+        display: block;
+        font: inherit;
+    }
+
+    .whitelist_meta_icon {
+        display: block !important;
+        font-family: Roboto;
+        font-size: 14px;
+        line-height: 1.43;
+        text-align: left;
+        margin-left: 28px;
+        margin-top: 7px;
+        width: auto;
+    }
+
+    #white_join {
+        margin-left: 22px;
+    }
+
+    .white_join a {
+        font-family: Rajdhani;
+        font-size: 15px;
+        font-weight: 700;
+        color: #386ce5;
+        vertical-align: top;
+        line-height: 1.33;
+        text-align: left;
+        position: absolute;
+        left: 28px;
+        bottom: 10px;
+    }
+
+    .table-striped {
+        display: none !important;
+    }
+
+    .add-block-whitelist {
+        display: none !important;
+    }
+    .other-table{
+        display: none !important;
+    }
+}
+
+@media screen and (min-width: 576px) and (max-width: 767px) {
+    .whitelist-table-row {
+        width: 100%;
+    }
+
+    .site-main {
+        display: block;
+    }
+
+    .whiteico {
+        max-width: 400px;
+        width: 100%;
+    }
+
+    .whiteico {
+        text-align: left;
+        max-width: 400px;
+        width: 100%;
+    }
+
+    .whitelist_date {
+        width: auto;
+        line-height: 1.43;
+        opacity: .6;
+        font-family: Roboto;
+        font-size: 14px;
+        position: absolute;
+        right: 0;
+        bottom: 10px;
+    }
+
+    .whiteico {
+        padding: 15px 0;
+        box-shadow: 0 1px 0 0 rgb(56 56 56 / 10%);
+        min-height: 135px;
+        position: relative;
+        font: inherit;
+        vertical-align: baseline;
+        border: 0;
+    }
+
+    #whitelist_ico {
+        border: none;
+        padding: 0;
+        font: inherit;
+        vertical-align: baseline;
+    }
+
+    .whtico-row>div {
+        display: inline-block;
+        vertical-align: top;
+    }
+
+    .white_ico-icon {
+        max-width: 24px;
+        margin: 0;
+        padding: 0;
+        font: inherit;
+        border: 0;
+    }
+
+    .whiteico a:link {
+        color: navajowhite;
+    }
+
+    a:link,
+    a:visited,
+    a:active,
+    a:hover {
+        text-decoration: none;
+    }
+
+    .attachment-thumbnail {
+        width: 20px;
+        height: 20px;
+        border-radius: 20px;
+        margin-right: 4px;
+    }
+
+
+    .white_info h3 {
+        width: auto;
+        display: block;
+        font-size: 1.4rem !important;
+        /* font-weight: 700; */
+    }
+
+    .white_info .white-ico-category-name {
+        font-family: Roboto;
+        font-size: 14px;
+        line-height: 2;
+        width: auto;
+        text-align: left;
+        display: block;
+        font: inherit;
+    }
+
+    .whitelist_meta_icon {
+        display: block !important;
+        font-family: Roboto;
+        font-size: 14px;
+        line-height: 1.43;
+        text-align: left;
+        margin-left: 28px;
+        margin-top: 7px;
+        width: auto;
+    }
+
+    #white_join {
+        margin-left: 22px;
+    }
+
+    .white_join a {
+        font-family: Rajdhani;
+        font-size: 15px;
+        font-weight: 700;
+        color: #386ce5;
+        vertical-align: top;
+        line-height: 1.33;
+        text-align: left;
+        position: absolute;
+        left: 28px;
+        bottom: 10px;
+    }
+
+    .table-striped {
+        display: none !important;
+    }
+
+    .add-block-whitelist {
+        display: none !important;
+    }
+    .other-table{
+        display: none !important;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .site-main {
+        display: none !important;
+    }
+
+    .table-striped {
+        display: block !important;
+    }
+
+    .add-block-whitelist {
+        display: block !important;
+    }
+
+    .project-name {
+        min-width: 275px !important;
+    }
+
+    .list-image {
+        width: 40px;
+    }
+
+    /* .table-body-without-mobile p,
+    td {
+        color: white !important;
+    } */
+
+    .table>:not(caption)>*>* {
+        border-bottom-width: 0px !important;
+    }
+
+    .other-table th {
+        text-align: left !important;
+        color: black !important;
+    }
+    .other-table td{
+        font-size: inherit !important;
+        padding: 2px !important;
+    }
+    .other-table tr{
+        border-top: inherit !important;
+    }
+    .other-table tr img{
+        width: 40px !important;
+        height: 40px !important;
+    }
+    .table>:not(:first-child){
+        border-top: 2px solid white !important;
+    }
+}

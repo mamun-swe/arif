@@ -1,0 +1,49 @@
+export const ADD_COUNTER = 'ADD_COUNTER'
+
+export const MIN_COUNTER = 'MIN_COUNTER'
+
+export const PORTFOLIO_DATA = 'PORTFOLIO_DATA'
+
+export const RESET_COUNTER = 'RESET_COUNTER'
+
+export const CHANGE_WALLET = 'CHANGE_WALLET'
+
+export const SELECT_MENU = 'SELECT_MENU'
+
+export const SET_LOADING = 'SET_LOADING'
+
+export const SET_THEME = 'SET_THEME'
+
+export const SET_MENU = 'SET_MENU'
+
+export const SET_PROJECT_DATA = 'SET_PROJECT_DATA'
+
+export const SET_LOGIN = 'SET_LOGIN'
+
+export const SET_MODAL = 'SET_MODAL'
+
+export const PROJECT_CATEGORY = 'PROJECT_CATEGORY'
+
+export const SET_CATEGORY_BUTTON = 'SET_CATEGORY_BUTTON'
+
+export const SET_PROJECT_DATA_DEFAULT = 'SET_PROJECT_DATA_DEFAULT'
+
+export const SET_SEARCH_DATA = 'SET_SEARCH_DATA'
+
+export const SET_LOGIN_USER = 'SET_LOGIN_USER'
+
+export const SET_USER_DATA = 'SET_USER_DATA'
+
+export const DELETE_USER_DATA = 'DELETE_USER_DATA'
+
+export const SET_FORK_DATA = 'SET_CATEGORY_DATA'
+
+export const SET_NETWORK_DATA = 'SET_NETWORK_DATA'
+
+export const SET_CATEGORY_BTN = 'SET_CATEGORY_BTN'
+
+export const SET_WHITELIST_DATA = 'SET_WHITELIST_DATA'
+
+export const UPDATE_NETWORK_DATA = 'UPDATE_NETWORK_DATA'
+
+export const UPDATE_FORK_DATA = 'UPDATE_FORK_DATA'

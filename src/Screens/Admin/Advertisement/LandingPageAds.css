@@ -1,0 +1,29 @@
+.ads-banner {
+    background: white !important;
+    min-height: 100vh;
+}
+.seleceted-image-block{
+    position: relative;
+    width: 245px;
+    float: left;
+}
+
+.recent-selected-images{
+    width: 245px;
+    object-fit: cover;
+    margin: 16px;
+    background-color: antiquewhite;
+}
+
+.close-icon{
+    position: absolute;
+    right: 0px;
+    cursor: pointer;
+    top: 20px;
+}
+.css-b62m3t-container{
+    width: 100% !important;
+}
+.ads-banner{
+    max-width: 100% !important;
+}
